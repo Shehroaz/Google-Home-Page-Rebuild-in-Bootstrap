@@ -7,5 +7,4 @@ Thanks.
 
 Its just bootstrap.
 
-![Alt text](capture.png?raw=true "Screen View")
-
+![Alt text](img/Capture.png?raw=true "Screen View")
