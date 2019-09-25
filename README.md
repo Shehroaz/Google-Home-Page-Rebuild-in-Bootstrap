@@ -11,5 +11,5 @@ Its just bootstrap.
 # snap of project 
 
 <div align="center">
-    <img src="/img/Capture.PNG" width="400px"</img> 
+    <img src="/img/Capture.PNG" width="700px"</img> 
 </div>
