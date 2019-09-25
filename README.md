@@ -7,4 +7,9 @@ Thanks.
 
 Its just bootstrap.
 
-![Alt text](img/Capture.png?raw=true "Screen View")
+
+# snap of project 
+
+<div align="center">
+    <img src="/img/Capture.PNG" width="400px"</img> 
+</div>
