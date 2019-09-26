@@ -8,7 +8,7 @@ Thanks.
 Its just bootstrap.
 
 
-# snap of project 
+# snap of work
 
 <div align="center">
     <img src="/img/Capture.PNG" width="700px"</img> 
